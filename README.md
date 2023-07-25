@@ -6,4 +6,5 @@ Usage:
 Users can customize the scene by adding or modifying the positions and properties of spheres, creating diverse environments. Experimenting with different materials allows for the creation of unique surface appearances and visual effects. Adjusting camera parameters like field of view and resolution offers flexibility in tailoring the output to specific requirements. This ray tracing code is an educational tool and a foundation for further exploration into advanced rendering techniques and complex scene design. It empowers users to generate impressive and immersive photorealistic 3D scenes for various applications, such as computer graphics, game development, and visual effects.
 
 Below is a sample ppm that is output with the current sphere configurations. 
+
 ![out](https://github.com/preetmakani/raytracing/assets/40505135/eec53d29-a242-4b27-8dc8-25a58666f77f)
